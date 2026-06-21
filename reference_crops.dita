@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_season_crops">
+    <title>Crops per season in Stardew Valley</title>
+    <shortdesc>Crops are seasonal in Stardew Valley. They can only be planted during their specific
+        season and will wither once the season changes. Only multi-harvest crops can keep producing
+        across all their allowed seasons. Here is a list of all crops in the game: </shortdesc>
+    <refbody>
+        <section>
+            <title>Spring</title>
+            <table frame="all" rowsep="1" colsep="1" id="spring_table">
+                <tgroup cols="8">
+                    <colspec colname="crop"/>
+                    <colspec colname="price"/>
+                    <colspec colname="grow"/>
+                    <colspec colname="regrow"/>
+                    <colspec colname="regular"/>
+                    <colspec colname="silver"/>
+                    <colspec colname="gold"/>
+                    <colspec colname="iridium"/>
+                    <thead>
+                        <row>
+                            <entry>Crop</entry>
+                            <entry>Seed price</entry>
+                            <entry>Days to grow</entry>
+                            <entry>Days to regrow</entry>
+                            <entry>Sell price (regular)</entry>
+                            <entry>Sell price (silver)</entry>
+                            <entry>Sell price (gold)</entry>
+                            <entry>Sell price (iridium)</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><b>Blue jazz</b></entry>
+                            <entry>30g</entry>
+                            <entry>7 days</entry>
+                            <entry>/</entry>
+                            <entry>50g</entry>
+                            <entry>62g</entry>
+                            <entry>75g</entry>
+                            <entry>100g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Carrot</b></entry>
+                            <entry>/</entry>
+                            <entry>3 days</entry>
+                            <entry>/</entry>
+                            <entry>35g</entry>
+                            <entry>43g</entry>
+                            <entry>52g</entry>
+                            <entry>70g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Cauliflower</b></entry>
+                            <entry>80g</entry>
+                            <entry>12 days</entry>
+                            <entry>/</entry>
+                            <entry>170g</entry>
+                            <entry>218g</entry>
+                            <entry>262g</entry>
+                            <entry>350g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Garlic</b></entry>
+                            <entry>40g</entry>
+                            <entry>4 days</entry>
+                            <entry>/</entry>
+                            <entry>60g</entry>
+                            <entry>75g</entry>
+                            <entry>90g</entry>
+                            <entry>120g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Green bean</b></entry>
+                            <entry>60g</entry>
+                            <entry>10 days</entry>
+                            <entry>3 days</entry>
+                            <entry>40g</entry>
+                            <entry>50g</entry>
+                            <entry>60g</entry>
+                            <entry>80g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Kale</b></entry>
+                            <entry>70g</entry>
+                            <entry>6 days</entry>
+                            <entry>/</entry>
+                            <entry>110g</entry>
+                            <entry>137g</entry>
+                            <entry>165g</entry>
+                            <entry>220g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Parsnip</b></entry>
+                            <entry>20g</entry>
+                            <entry>4 days</entry>
+                            <entry>/</entry>
+                            <entry>35g</entry>
+                            <entry>43g</entry>
+                            <entry>52g</entry>
+                            <entry>70g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Potato</b></entry>
+                            <entry>50g</entry>
+                            <entry>6 days</entry>
+                            <entry>/</entry>
+                            <entry>80g</entry>
+                            <entry>100g</entry>
+                            <entry>120g</entry>
+                            <entry>160g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Rhubarb</b></entry>
+                            <entry>100g</entry>
+                            <entry>13 days</entry>
+                            <entry>/</entry>
+                            <entry>220g</entry>
+                            <entry>275g</entry>
+                            <entry>330g</entry>
+                            <entry>440g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Strawberry</b></entry>
+                            <entry>100g</entry>
+                            <entry>8 days</entry>
+                            <entry>4 days</entry>
+                            <entry>120g</entry>
+                            <entry>150g</entry>
+                            <entry>180g</entry>
+                            <entry>240g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Tulip</b></entry>
+                            <entry>20g</entry>
+                            <entry>6 days</entry>
+                            <entry>/</entry>
+                            <entry>30g</entry>
+                            <entry>37g</entry>
+                            <entry>45g</entry>
+                            <entry>60g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Unmilled rice</b></entry>
+                            <entry>40g</entry>
+                            <entry>6-8 days</entry>
+                            <entry>/</entry>
+                            <entry>30g</entry>
+                            <entry>37g</entry>
+                            <entry>45g</entry>
+                            <entry>60g</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section>
+            <title>Summer</title>
+            <table frame="all" rowsep="1" colsep="1" id="summer_table">
+                <tgroup cols="8">
+                    <colspec colname="crop"/>
+                    <colspec colname="price"/>
+                    <colspec colname="grow"/>
+                    <colspec colname="regrow"/>
+                    <colspec colname="regular"/>
+                    <colspec colname="silver"/>
+                    <colspec colname="gold"/>
+                    <colspec colname="iridium"/>
+                    <thead>
+                        <row>
+                            <entry>Crop</entry>
+                            <entry>Seed price</entry>
+                            <entry>Days to grow</entry>
+                            <entry>Days to regrow</entry>
+                            <entry>Sell price (regular)</entry>
+                            <entry>Sell price (silver)</entry>
+                            <entry>Sell price (gold)</entry>
+                            <entry>Sell price (iridium)</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><b>Blueberry</b></entry>
+                            <entry>80g</entry>
+                            <entry>13 days</entry>
+                            <entry>4 days</entry>
+                            <entry>50g</entry>
+                            <entry>62g</entry>
+                            <entry>75g</entry>
+                            <entry>100g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Corn</b></entry>
+                            <entry>150g</entry>
+                            <entry>14 days</entry>
+                            <entry>4 days</entry>
+                            <entry>50g</entry>
+                            <entry>62g</entry>
+                            <entry>75g</entry>
+                            <entry>100g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Hops</b></entry>
+                            <entry>60g</entry>
+                            <entry>11 days</entry>
+                            <entry>1 day</entry>
+                            <entry>25g</entry>
+                            <entry>31g</entry>
+                            <entry>37g</entry>
+                            <entry>50g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Hot pepper</b></entry>
+                            <entry>40g</entry>
+                            <entry>5 days</entry>
+                            <entry>3 days</entry>
+                            <entry>40g</entry>
+                            <entry>50g</entry>
+                            <entry>60g</entry>
+                            <entry>80g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Melon</b></entry>
+                            <entry>80g</entry>
+                            <entry>12 days</entry>
+                            <entry>/</entry>
+                            <entry>250g</entry>
+                            <entry>312g</entry>
+                            <entry>375g</entry>
+                            <entry>500g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Poppy</b></entry>
+                            <entry>100g</entry>
+                            <entry>7 days</entry>
+                            <entry>/</entry>
+                            <entry>140g</entry>
+                            <entry>175g</entry>
+                            <entry>210g</entry>
+                            <entry>280g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Radish</b></entry>
+                            <entry>40g</entry>
+                            <entry>6 days</entry>
+                            <entry>/</entry>
+                            <entry>90g</entry>
+                            <entry>112g</entry>
+                            <entry>135g</entry>
+                            <entry>180g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Red cabbage</b></entry>
+                            <entry>100g</entry>
+                            <entry>9 days</entry>
+                            <entry>/</entry>
+                            <entry>260g</entry>
+                            <entry>325g</entry>
+                            <entry>390g</entry>
+                            <entry>520g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Starfruit</b></entry>
+                            <entry>400g</entry>
+                            <entry>13 days</entry>
+                            <entry>/</entry>
+                            <entry>750g</entry>
+                            <entry>937g</entry>
+                            <entry>1,125g</entry>
+                            <entry>1,500g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Summer spangle</b></entry>
+                            <entry>50g</entry>
+                            <entry>8 days</entry>
+                            <entry>/</entry>
+                            <entry>90g</entry>
+                            <entry>112g</entry>
+                            <entry>135g</entry>
+                            <entry>180g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Summer squash</b></entry>
+                            <entry>/</entry>
+                            <entry>6 days</entry>
+                            <entry>3 days</entry>
+                            <entry>45g</entry>
+                            <entry>56g</entry>
+                            <entry>67g</entry>
+                            <entry>90g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Sunflower</b></entry>
+                            <entry>200g</entry>
+                            <entry>8 days</entry>
+                            <entry>/</entry>
+                            <entry>80g</entry>
+                            <entry>100g</entry>
+                            <entry>120g</entry>
+                            <entry>160g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Tomato</b></entry>
+                            <entry>50g</entry>
+                            <entry>11 days</entry>
+                            <entry>4 days</entry>
+                            <entry>60g</entry>
+                            <entry>75g</entry>
+                            <entry>90g</entry>
+                            <entry>120g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Wheat</b></entry>
+                            <entry>10g</entry>
+                            <entry>4 days</entry>
+                            <entry>/</entry>
+                            <entry>25g</entry>
+                            <entry>31g</entry>
+                            <entry>37g</entry>
+                            <entry>50g</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section>
+            <title>Fall</title>
+            <table frame="all" rowsep="1" colsep="1" id="fall_table">
+                <tgroup cols="8">
+                    <colspec colname="crop"/>
+                    <colspec colname="price"/>
+                    <colspec colname="grow"/>
+                    <colspec colname="regrow"/>
+                    <colspec colname="regular"/>
+                    <colspec colname="silver"/>
+                    <colspec colname="gold"/>
+                    <colspec colname="iridium"/>
+                    <thead>
+                        <row>
+                            <entry>Crop</entry>
+                            <entry>Seed price</entry>
+                            <entry>Days to grow</entry>
+                            <entry>Days to regrow</entry>
+                            <entry>Sell price (regular)</entry>
+                            <entry>Sell price (silver)</entry>
+                            <entry>Sell price (gold)</entry>
+                            <entry>Sell price (iridium)</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><b>Amaranth</b></entry>
+                            <entry>70g</entry>
+                            <entry>7 days</entry>
+                            <entry>/</entry>
+                            <entry>150g</entry>
+                            <entry>187g</entry>
+                            <entry>225g</entry>
+                            <entry>300g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Artichoke</b></entry>
+                            <entry>30g</entry>
+                            <entry>8 days</entry>
+                            <entry>/</entry>
+                            <entry>160g</entry>
+                            <entry>200g</entry>
+                            <entry>240g</entry>
+                            <entry>320g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Beet</b></entry>
+                            <entry>20g</entry>
+                            <entry>6 days</entry>
+                            <entry>/</entry>
+                            <entry>100g</entry>
+                            <entry>125g</entry>
+                            <entry>150g</entry>
+                            <entry>200g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Bok choy</b></entry>
+                            <entry>50g</entry>
+                            <entry>4 days</entry>
+                            <entry>/</entry>
+                            <entry>80g</entry>
+                            <entry>100g</entry>
+                            <entry>120g</entry>
+                            <entry>160g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Broccoli</b></entry>
+                            <entry>/</entry>
+                            <entry>8 days</entry>
+                            <entry>4 days</entry>
+                            <entry>70g</entry>
+                            <entry>87g</entry>
+                            <entry>105g</entry>
+                            <entry>140g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Cranberries</b></entry>
+                            <entry>240g</entry>
+                            <entry>7 days</entry>
+                            <entry>5 days</entry>
+                            <entry>75g</entry>
+                            <entry>93g</entry>
+                            <entry>112g</entry>
+                            <entry>150g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Eggplant</b></entry>
+                            <entry>20g</entry>
+                            <entry>5 days</entry>
+                            <entry>5 days</entry>
+                            <entry>60g</entry>
+                            <entry>75g</entry>
+                            <entry>90g</entry>
+                            <entry>120g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Fairy rose</b></entry>
+                            <entry>200g</entry>
+                            <entry>12 days</entry>
+                            <entry>/</entry>
+                            <entry>290g</entry>
+                            <entry>362g</entry>
+                            <entry>435g</entry>
+                            <entry>580g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Grape</b></entry>
+                            <entry>60g</entry>
+                            <entry>10 days</entry>
+                            <entry>3 days</entry>
+                            <entry>80g</entry>
+                            <entry>100g</entry>
+                            <entry>120g</entry>
+                            <entry>160g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Pumpkin</b></entry>
+                            <entry>100g</entry>
+                            <entry>13 days</entry>
+                            <entry>/</entry>
+                            <entry>320g</entry>
+                            <entry>400g</entry>
+                            <entry>480g</entry>
+                            <entry>640g</entry>
+                        </row>
+                        <row>
+                            <entry><b>Yam</b></entry>
+                            <entry>60</entry>
+                            <entry>10 days</entry>
+                            <entry>/</entry>
+                            <entry>160g</entry>
+                            <entry>200g</entry>
+                            <entry>240g</entry>
+                            <entry>320g</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <section>
+            <title>Winter</title>
+            <table frame="all" rowsep="1" colsep="1" id="winter_table">
+                <tgroup cols="8">
+                    <colspec colname="crop"/>
+                    <colspec colname="price"/>
+                    <colspec colname="grow"/>
+                    <colspec colname="regrow"/>
+                    <colspec colname="regular"/>
+                    <colspec colname="silver"/>
+                    <colspec colname="gold"/>
+                    <colspec colname="iridium"/>
+                    <thead>
+                        <row>
+                            <entry>Crop</entry>
+                            <entry>Seed price</entry>
+                            <entry>Days to grow</entry>
+                            <entry>Days to regrow</entry>
+                            <entry>Sell price (regular)</entry>
+                            <entry>Sell price (silver)</entry>
+                            <entry>Sell price (gold)</entry>
+                            <entry>Sell price (iridium)</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><b>Powdermelon</b></entry>
+                            <entry>/</entry>
+                            <entry>7 days</entry>
+                            <entry>/</entry>
+                            <entry>60g</entry>
+                            <entry>75g</entry>
+                            <entry>90g</entry>
+                            <entry>120g</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

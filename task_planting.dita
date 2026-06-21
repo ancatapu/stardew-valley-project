@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_planting_crops">
+    <title>Planting Crops</title>
+    <shortdesc>How to plant your first crops in Stardew Valley.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Make sure that you have seeds to plant. </p>
+            <p>In this guide, we will use the starting seeds the player receives on day 1 (15
+                parsnip seeds).</p>
+        </prereq>
+        
+        <steps>
+            <step>
+                <cmd>Using the <uicontrol>axe</uicontrol> and <uicontrol>pickaxe</uicontrol>, clear out any existing debris to make space for your
+                    crops.</cmd>
+                <info>
+                    <note>On the first day, your farm will be full of debris. You must clear it out
+                        in order to plant crops or build any type of building onto your farm.This can be done with the axe tool, among many others.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Select the <uicontrol>hoe</uicontrol> in your hotbar and right click to till a space. Repeat
+                    until you have tilled 15 spaces for your seeds following a 5x3 pattern.</cmd>
+                <info>
+                    <image keyref="till_soil" width="350"/>
+                    <note>By holding down right click, you can simply slide your cursor to till
+                        multiple spaces simultaneously instead of tilling spaces one by one.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Select the <b>seeds</b> in your hotbar and right click to plant them. Repeat
+                    until you have planted all the seeds in the spaces you tilled.</cmd>
+                <info>
+                    <image keyref="plant_seeds" width="350"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Select the <uicontrol>watering can</uicontrol> in your hotbar and right click to water a crop. Repeat until you have
+                    watered all the crops.</cmd>
+                <info>
+                    <image keyref="water_seeds" width="350"/>
+                </info>
+            </step>
+        </steps>
+        <result>
+            <p>Your seeds are planted. You now have to wait for them to grow in order to harvest
+                them.</p>
+        </result>
+    </taskbody>
+</task>
