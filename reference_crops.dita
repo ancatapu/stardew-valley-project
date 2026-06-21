@@ -502,5 +502,44 @@
                 </tgroup>
             </table>
         </section>
+        <section>
+            <title>Special</title>
+            <table frame="all" rowsep="1" colsep="1" id="special_table">
+                <tgroup cols="8">
+                    <colspec colname="crop"/>
+                    <colspec colname="price"/>
+                    <colspec colname="grow"/>
+                    <colspec colname="regrow"/>
+                    <colspec colname="regular"/>
+                    <colspec colname="silver"/>
+                    <colspec colname="gold"/>
+                    <colspec colname="iridium"/>
+                    <thead>
+                        <row>
+                            <entry>Crop</entry>
+                            <entry>Seed price</entry>
+                            <entry>Days to grow</entry>
+                            <entry>Days to regrow</entry>
+                            <entry>Sell price (regular)</entry>
+                            <entry>Sell price (silver)</entry>
+                            <entry>Sell price (gold)</entry>
+                            <entry>Sell price (iridium)</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><b>Ancient Fruit</b></entry>
+                            <entry>Free</entry>
+                            <entry>28 days</entry>
+                            <entry>7</entry>
+                            <entry>550g</entry>
+                            <entry>687g</entry>
+                            <entry>825g</entry>
+                            <entry>1,100g</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
     </refbody>
 </reference>

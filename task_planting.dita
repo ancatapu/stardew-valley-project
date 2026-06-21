@@ -40,6 +40,7 @@
                     watered all the crops.</cmd>
                 <info>
                     <image keyref="water_seeds" width="350"/>
+                    <note> Water runs out from your watering can in Stardew Valley. You will have to fill it up once it is empty. You can fill the watering can from any water source (ocean, lake, pond, kitchen sink, etc.).</note>
                 </info>
             </step>
         </steps>
