@@ -7,6 +7,7 @@
         explain what players should do to make the most out of the first week on their
         farm. This game is provided by ConcernedApe.</shortdesc>
     <prolog>
+        <author>Anca Tapu</author>
         <metadata>
             <keywords>
                 <keyword>Stardew Valley</keyword>
@@ -14,6 +15,7 @@
                 <keyword>game</keyword>
                 <keyword>beginner</keyword>
                 <keyword>first week</keyword>
+                <keyword>farming</keyword>
             </keywords>
         </metadata>
     </prolog>
@@ -61,6 +63,7 @@
                 <li><b>Fishing rod:</b> Used to catch fish.</li>
                 <li><b>Scythe:</b> Used to cut grass and weeds. Also used to harvest specific crops
                     (Amaranth, Kale, Wheat).</li>
+                <li><b>Pan:</b> Used to gather ore from water.</li>
             </ul>
             <p>Keep in mind that tools can be upgraded at the Blacksmith in exchange for metals bars
                 and gold.</p>
