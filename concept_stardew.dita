@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_stardew_valley">
+    <title>Getting through the first week in Stardew Valley</title>
+    <shortdesc> Stardew Valley is a game in which players get to play without guidelines or clear
+        goals, allowing them to explore the world around them on their own. This document will
+        explain what players should do to make the most out of the first week on their
+        farm. This game is provided by ConcernedApe.</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <keyword>Stardew Valley</keyword>
+                <keyword>Pelican Town</keyword>
+                <keyword>game</keyword>
+                <keyword>beginner</keyword>
+                <keyword>first week</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <image keyref="stardew_logo" width="400"/>
+        <p>The first week in Stardew Valley can be confusing for beginners, as they have to get used
+            to the controls, the mechanics and to the life in Pelican Town. Still, this first week
+            sets the pace for the rest of the game.Therefore, starting out well is absolutely
+            necessary</p>
+        
+        <section>
+            <title>Early priorities</title>
+            <p>During the first week, players often focus on planting the starting seeds, watering
+                crops, and collecting simple resources such as wood, stone, and forage items.</p>
+            <note type="tip">
+                <p>Rainy days are a good time to explore, forage, or fish because you do not need to
+                    spend time watering crops.</p>
+            </note>
+        </section>
+
+        <section>
+            <title>Learning the routine</title>
+            <p>The early game also teaches the player how to balance daily activities, shop
+                openings, and the passing of time. This first routine helps new players understand
+                how to plan their days.</p>
+        </section>
+
+        <example>
+            <title>A first day</title>
+            <p rev="1.67">A player might plant and water crops in the morning, collect nearby foraged items, and then
+                explore town before shops close for the day.</p>
+        </example>
+
+        <section id="starting_tools">
+            <title>Starting tools</title>
+            <p>At the start of the game, the player gains access to a set of basic tools to help
+                perform different tasks. Over time, you will gain access to more tools. Most players
+                keep them in their hotbar to access them easily, but they can also be stored in
+                chests.</p>
+            <ul>
+                <li><b>Watering can:</b> Used to water crops to make them grow.</li>
+                <li id="hoe_tool"><b>Hoe:</b> Used to till soil to plant Seeds.</li>
+                <li id="axe_tool"><b>Axe:</b> Used to chop down trees.</li>
+                <li><b>Pickaxe:</b> Used to break stones.</li>
+                <li><b>Fishing rod:</b> Used to catch fish.</li>
+                <li><b>Scythe:</b> Used to cut grass and weeds. Also used to harvest specific crops
+                    (Amaranth, Kale, Wheat).</li>
+            </ul>
+            <p>Keep in mind that tools can be upgraded at the Blacksmith in exchange for metals bars
+                and gold.</p>
+        </section>
+    </conbody>
+    <related-links>
+        <link href="task_planting.dita"/>
+        <link href="https://stardewvalleywiki.com/Crops" scope="external" format="html">
+            <linktext>Stardew Valley Crops</linktext>
+        </link>
+    </related-links>
+</concept>
